@@ -1,0 +1,14 @@
+# IDES
+/.vscode
+/.idea
+
+# Project
+/package-lock.json
+.env
+/node_modules/
+
+/logs/
+/temp/
+/tmp/
+/tmp/uploads
+/config/*.json
